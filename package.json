@@ -1,0 +1,11 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tiye/storage-download-script.git",
+  "author": "jiyinyiyong <jiyinyiyong@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "coffeescript": "^2.4.1"
+  }
+}
